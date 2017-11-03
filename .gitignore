@@ -1,0 +1,53 @@
+.idea
+target/
+*.iml
+.settings
+*.bak
+.svn
+.project
+.DS_Store
+/target
+
+#.gitignore for java
+*.class
+
+#Package Files#
+*.jar
+*.war
+*.ear
+
+# plugin release file
+/*.zip
+/*.zip.sha1
+
+
+# IDE support files
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/ivy*
+/eclipse
+
+
+.classpath
+.settings/
+.loadpath
+
+## .gitignore for windows
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+## .gitignore for intellij
+
+*.iml
+*.ipr
+*.iws
+.idea/
